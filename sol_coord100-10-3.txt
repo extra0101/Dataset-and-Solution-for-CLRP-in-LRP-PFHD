@@ -1,0 +1,30 @@
+The objective is: 
+264915.00
+Location: 2(load: 448)
+ Route 0(load: 65) 90 75 97 76
+ Route 1(load: 60) 94 89 66 61
+ Route 2(load: 60) 67 60 93 96
+ Route 3(load: 62) 63 64 69 72
+ Route 4(load: 69) 81 78 71 83 88
+ Route 5(load: 67) 95 84 98 91 99
+ Route 6(load: 65) 68 65 82 70
+Location: 3(load: 533)
+ Route 0(load: 12) 58
+ Route 1(load: 65) 50 41 37 45
+ Route 2(load: 70) 42 38 51 48 54
+ Route 3(load: 64) 49 34 31 57
+ Route 4(load: 60) 35 55 56 59
+ Route 5(load: 70) 33 44 39 53
+ Route 6(load: 63) 80 73 79 85
+ Route 7(load: 69) 52 46 43 47
+ Route 8(load: 60) 30 36 32 40
+Location: 5(load: 559)
+ Route 0(load: 60) 21 28 23 2
+ Route 1(load: 53) 15 29 4
+ Route 2(load: 52) 27 25 16
+ Route 3(load: 66) 92 86 77 87
+ Route 4(load: 68) 24 17 0 18 6
+ Route 5(load: 63) 10 22 3 8
+ Route 6(load: 70) 12 20 26 1 7
+ Route 7(load: 60) 74 62 14 13
+ Route 8(load: 67) 5 9 19 11

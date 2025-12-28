@@ -1,0 +1,7 @@
+The objective is: 476.12
+
+Location: 3(load: 900)
+ Route 0(load: 175) 25 24 30 31 32 33 26
+ Route 1(load: 250) 15 16 10 11 5 4 3 9 14 20
+ Route 2(load: 250) 19 18 12 6 0 1 2 8 7 13
+ Route 3(load: 225) 27 28 34 35 29 23 17 22 21
